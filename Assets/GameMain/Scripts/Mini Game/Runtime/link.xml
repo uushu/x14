@@ -1,0 +1,7 @@
+<linker>
+       <assembly fullname="WechatFileSystem" preserve="all"/>
+       <assembly fullname="TiktokFileSystem" preserve="all"/>
+       <assembly fullname="YooAsset" preserve="all"/>
+       <assembly fullname="YooAsset.RuntimeExtension" preserve="all"/>
+       <assembly fullname="YooAsset.MiniGame" preserve="all"/>
+</linker>

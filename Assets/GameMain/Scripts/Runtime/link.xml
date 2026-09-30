@@ -1,0 +1,4 @@
+<linker>
+       <assembly fullname="YooAsset.AssetBundleWebRequest" preserve="all"/>
+       <assembly fullname="YooAsset.DefaultWebRemoteFileSystem" preserve="all"/>
+</linker>

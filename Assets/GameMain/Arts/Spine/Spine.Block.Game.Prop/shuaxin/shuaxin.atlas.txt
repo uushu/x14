@@ -1,0 +1,7 @@
+shuaxin.png
+size:512,256
+filter:Linear,Linear
+1
+bounds:159,2,155,198
+2
+bounds:2,2,155,198

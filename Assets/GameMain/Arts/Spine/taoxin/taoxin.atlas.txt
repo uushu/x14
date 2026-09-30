@@ -1,0 +1,14 @@
+taoxin.png
+size:1024,256
+filter:Linear,Linear
+1
+bounds:382,36,158,133
+offsets:0,0,158,134
+rotate:90
+2
+bounds:230,12,182,150
+offsets:0,0,182,152
+rotate:90
+3
+bounds:2,2,226,192
+offsets:2,1,230,195

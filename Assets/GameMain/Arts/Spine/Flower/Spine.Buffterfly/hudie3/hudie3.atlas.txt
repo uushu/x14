@@ -1,0 +1,16 @@
+hudie3.png
+size:256,256
+filter:Linear,Linear
+3_shenti
+bounds:58,172,82,63
+rotate:90
+3_yschibang
+bounds:2,5,70,122
+3_yxchibang
+bounds:78,2,103,57
+rotate:90
+3_zschibang
+bounds:2,128,72,126
+3_zxchibang
+bounds:44,75,107,65
+rotate:90

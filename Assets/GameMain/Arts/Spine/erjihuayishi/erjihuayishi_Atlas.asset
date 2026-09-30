@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7591812c8a907274f9e63a8d15f548b3, type: 3}
+  m_Name: erjihuayishi_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 05bd685e0dc24cb468eeabb33347d84f, type: 3}
+  materials:
+  - {fileID: 2100000, guid: fe06fb9d63a63cc4abfc8d0ef88b8b98, type: 2}

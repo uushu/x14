@@ -1,0 +1,11 @@
+baoxiang.png
+size:512,512
+filter:Linear,Linear
+baoxiang1
+bounds:274,2,253,136
+rotate:270
+baoxiang2
+bounds:2,154,290,170
+offsets:0,14,290,184
+baoxiang3
+bounds:2,4,276,154
